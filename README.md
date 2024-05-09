@@ -18,6 +18,7 @@ A repository holding a collection of audio texture datasets for training machine
 ### Audio Texture Datasets with control parameters
 - SynTex, https://syntex.sonicthings.org/ 
 - Parameterized Sound Set database, https://sonicthings.org:9999/
+- Boreilly dataset, https://animatedsound.com/datasets/
 
 ## Functionalities
 Curerntly scripts exist for loading data and manipulating in the following ways;
